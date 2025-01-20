@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/66ca160592ec1a8a7327bc51?variant=dark&roadmaps=computer-science" alt="roadmap.sh"/></a>
+
 <!--
 **OkkeMans/OkkeMans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
